@@ -26,8 +26,8 @@ document-research-chatbot/
 ├── data/ # Document storage
 └── qdrant_db/ # Vector database
 
-Code Demo Video: 
-Appplication Demo Video:
+Code Demo Video: https://drive.google.com/file/d/1nhu-hYdYEJaEhG8Mb1PhI7X49aRYznd9/view?usp=sharing
+Appplication Demo Video: https://drive.google.com/file/d/1pT2kt7PgqrpBegZdkhYTZdjMaepCQt4v/view?usp=sharing
 
 ## Features
 - **Multi-Document Processing**: Handle 75+ PDFs and images with OCR
