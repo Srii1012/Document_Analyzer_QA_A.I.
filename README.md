@@ -20,11 +20,11 @@ This AI-powered document research system revolutionizes how users interact with 
 
 ## Code Structure & Demo Videos
 document-research-chatbot/
-├── app.py # Streamlit frontend
-├── main.py # FastAPI backend
-├── requirements.txt # Dependencies
-├── data/ # Document storage
-└── qdrant_db/ # Vector database
+          ├── app.py # Streamlit frontend
+          ├── main.py # FastAPI backend
+          ├── requirements.txt # Dependencies
+          ├── data/ # Document storage
+          └── qdrant_db/ # Vector database
 
 Code Demo Video: https://drive.google.com/file/d/1nhu-hYdYEJaEhG8Mb1PhI7X49aRYznd9/view?usp=sharing
 Appplication Demo Video: https://drive.google.com/file/d/1pT2kt7PgqrpBegZdkhYTZdjMaepCQt4v/view?usp=sharing
