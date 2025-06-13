@@ -1,0 +1,31 @@
+echo "# -srivathsan-c-b-wasserstoff-AiInternTask" >> README.md## Basic Required Libraries or Dependencies 
+
+streamlit
+requests
+Pillow
+pytesseract
+fastapi
+uvicorn
+pdfplumber
+qdrant-client
+sentence-transformers
+groq
+python-dotenv
+python-multipart
+
+
+## Camera Accessing  Libraries or Dependencies
+
+streamlit-webrtc
+opencv-python
+numpy
+aiortc
+
+## Camera Accessing Support Libraries or Dependencies
+av
+
+## Firebase Dependencies 
+
+firebase-admin==6.2.0
+pyrebase4==4.7.1
+python-dotenv==1.0.0
