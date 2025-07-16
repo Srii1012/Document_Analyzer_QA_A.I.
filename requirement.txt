@@ -14,17 +14,14 @@ python-dotenv
 python-multipart
 
 
-## Camera Accessing  Libraries or Dependencies
+
 
 streamlit-webrtc
 opencv-python
 numpy
 aiortc
 
-## Camera Accessing Support Libraries or Dependencies
 av
-
-## Firebase Dependencies 
 
 firebase-admin==6.2.0
 pyrebase4==4.7.1
