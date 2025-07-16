@@ -15,7 +15,7 @@ RUN apt-get update && apt-get install -y \
 COPY . .
 
 # Install Python dependencies
-RUN pip install --no-cache-dir -r requirement.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
 # Expose ports for Streamlit (8501) and FastAPI (8000)
 EXPOSE 8501 8000
